@@ -1,0 +1,1 @@
+python strtbl.py enc mcstrings02.json
