@@ -76,6 +76,12 @@ def mod_dat():
                 for file in files:
                     src_file = os.path.join(root, file)
                     dst_file = os.path.join(dest_dir, file)
+
+                    if os.path.exists(dst_file):
+                        print(f"{YELLOW}Overwriting: {dst_file}{RESET}")
+                    else:
+                        print(f"{GREEN}Adding: {dst_file}{RESET}")
+
                     shutil.copy2(src_file, dst_file)
 
 def main():
@@ -84,6 +90,7 @@ def main():
         decompile_dats()
     convert_to_wav()
     convert_to_rstm()
+    mod_dat()
     answer = input(f"{BLUE}Do you want to encode STREAMS and ASSETS? {RESET}(Y/N) ").strip().lower()
     if answer == "y":
         compile_dats()
