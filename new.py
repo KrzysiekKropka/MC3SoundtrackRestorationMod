@@ -14,7 +14,6 @@ else:
 
 for file in os.listdir(REPLACE_FOLDER):
     filename, ext = os.path.splitext(file)
-    print(ext)
     if ext.lower() != ".wav" and ext.lower() != ".rsm":
         ext_path = os.path.join(REPLACE_FOLDER, f"{file}")
         filename, _ = os.path.splitext(file)
