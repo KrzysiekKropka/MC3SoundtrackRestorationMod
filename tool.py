@@ -82,6 +82,7 @@ def mod_dat():
                     if os.path.exists(dst_file):
                         if file_hash(src_file) == file_hash(dst_file):
                             print(f"{RED}{dst_file} is the same or was already modified.{RESET}")
+                            continue
                         else:
                             print(f"{YELLOW}Overwriting: {dst_file}{RESET}")
                     else:
