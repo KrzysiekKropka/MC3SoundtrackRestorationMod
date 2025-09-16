@@ -2,6 +2,7 @@ import os
 import platform
 import subprocess
 import shutil
+import hashlib
 
 BASE_FOLDER = os.getcwd()
 NEW_RSTM_FOLDER = os.path.join(BASE_FOLDER, "NEW_RSTM")
@@ -19,6 +20,14 @@ GREEN = "\033[32m"
 BLUE = "\033[34m"
 YELLOW = "\033[33m"
 RESET = "\033[0m"
+
+def file_hash(path):
+    """Return SHA256 hash of a file (as hex)."""
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(8192), b""):
+            h.update(chunk)
+    return h.hexdigest()
 
 def decompile_dats():
     if os.path.exists(os.path.join(BASE_FOLDER, "ASSETS.DAT")):
@@ -54,13 +63,6 @@ def convert_to_rstm():
             subprocess.run(['python', os.path.join(TOOLS_FOLDER, "rstm_build.py"), wav_path], check=True)
             os.remove(wav_path)
 
-def compile_dats():
-    print(f"{YELLOW}Compiling ASSETS.DAT...{RESET}")
-    subprocess.run(["python", os.path.join(TOOLS_FOLDER, "dave.py"), "B", "-ca", "-cn", "-cf", "-fc", "1", "ASSETS", "ASSETS.DAT"], check=True)
-
-    print(f"{YELLOW}Compiling STREAMS.DAT...{RESET}")
-    subprocess.run(["python", os.path.join(TOOLS_FOLDER, "hash_build.py"), "B", "STREAMS", "STREAMS.DAT", "-a", "MClub"], check=True)
-
 def mod_dat():
     for folder in ["ASSETS", "STREAMS"]:
         mod_path = os.path.join(MOD_FOLDER, folder)
@@ -78,11 +80,21 @@ def mod_dat():
                     dst_file = os.path.join(dest_dir, file)
 
                     if os.path.exists(dst_file):
-                        print(f"{YELLOW}Overwriting: {dst_file}{RESET}")
+                        if file_hash(src_file) == file_hash(dst_file):
+                            print(f"{RED}{dst_file} is the same or was already modified.{RESET}")
+                        else:
+                            print(f"{YELLOW}Overwriting: {dst_file}{RESET}")
                     else:
                         print(f"{GREEN}Adding: {dst_file}{RESET}")
 
                     shutil.copy2(src_file, dst_file)
+
+def compile_dats():
+    print(f"{YELLOW}Compiling ASSETS.DAT...{RESET}")
+    subprocess.run(["python", os.path.join(TOOLS_FOLDER, "dave.py"), "B", "-ca", "-cn", "-cf", "-fc", "1", f"{CONTENTS_FOLDER}/ASSETS", "ASSETS.DAT"], check=True)
+
+    print(f"{YELLOW}Compiling STREAMS.DAT...{RESET}")
+    subprocess.run(["python", os.path.join(TOOLS_FOLDER, "hash_build.py"), "B", f"{CONTENTS_FOLDER}/STREAMS", "STREAMS.DAT", "-a", "MClub"], check=True)
 
 def main():
     answer = input(f"{BLUE}Do you want to decode STREAMS.DAT and ASSETS.DAT? {RESET}(Y/N) ").strip().lower()
