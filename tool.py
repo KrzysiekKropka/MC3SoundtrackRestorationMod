@@ -103,7 +103,9 @@ def main():
         decompile_dats()
     convert_to_wav()
     convert_to_rstm()
-    mod_dat()
+    answer = input(f"{BLUE}Do you want to mod the game? {RESET}(Y/N) ").strip().lower()
+    if answer == "y":
+        mod_dat()
     answer = input(f"{BLUE}Do you want to encode STREAMS and ASSETS? {RESET}(Y/N) ").strip().lower()
     if answer == "y":
         compile_dats()
