@@ -10,16 +10,18 @@ MOD_FOLDER = os.path.join(BASE_FOLDER, "MOD")
 CONTENTS_FOLDER = os.path.join(BASE_FOLDER, "DAT_CONTENTS")
 TOOLS_FOLDER = os.path.join(BASE_FOLDER, "external_tools")
 
-if platform.system() == "Windows":
-    ffmpeg_bin = os.path.join(TOOLS_FOLDER, "ffmpeg.exe")
-else:
-    ffmpeg_bin = "ffmpeg"
-
 RED = "\033[31m"
 GREEN = "\033[32m"
 BLUE = "\033[34m"
 YELLOW = "\033[33m"
 RESET = "\033[0m"
+
+if platform.system() == "Windows":
+    ffmpeg_bin = os.path.join(TOOLS_FOLDER, "ffmpeg.exe")
+else:
+    if os.geteuid() != 0: input(f"{RED}It's recommended to run this tool as root, otherwise building rstm files might end with a crash due to a permission error.\n{RESET}Do you want to continue regardless? Press enter to continue: ")
+    ffmpeg_bin = "ffmpeg"
+
 
 def file_hash(path):
     """Return SHA256 hash of a file (as hex)."""
@@ -69,7 +71,7 @@ def mod_dat():
         target_path = os.path.join(CONTENTS_FOLDER, folder)
 
         if os.path.isdir(mod_path):
-            print(f"{YELLOW}Applying mods from {mod_path} → {target_path}{RESET}")
+            print(f"{BLUE}Applying mods from {mod_path} → {target_path}{RESET}")
             for root, dirs, files in os.walk(mod_path):
                 rel_path = os.path.relpath(root, mod_path)
                 dest_dir = os.path.join(target_path, rel_path)
