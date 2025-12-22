@@ -31756,27 +31756,27 @@
         },
         "music_HipHop_Twista_SoSexy": {
             "Language 00": {
-                "text": "\"So Sexy\"\nby Twista",
+                "text": "\"So Sexy\"\nby R.Kelly feat. Twista",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 01": {
-                "text": "\"So Sexy\"\nde Twista",
+                "text": "\"So Sexy\"\nde R.Kelly feat. Twista",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 02": {
-                "text": "\"So Sexy\"\npar Twista",
+                "text": "\"So Sexy\"\npar R.Kelly feat. Twista",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 03": {
-                "text": "\"So Sexy\"\nvon Twista",
+                "text": "\"So Sexy\"\nvon R.Kelly feat. Twista",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 04": {
-                "text": "\"So Sexy\"\ndi Twista",
+                "text": "\"So Sexy\"\ndi R.Kelly feat. Twista",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 05": {
-                "text": "\"So Sexy\"\nby Twista",
+                "text": "\"So Sexy\"\nby R.Kelly feat. Twista",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -61599,12 +61599,12 @@
         "Language 05": { "text": "\"My Lifestyle\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
     },
     "music_HipHop_Twista_SoSexy": {
-        "Language 00": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
-        "Language 01": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
-        "Language 02": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
-        "Language 03": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
-        "Language 04": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
-        "Language 05": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+        "Language 00": { "text": "\"So Sexy\"\nby R.Kelly feat. R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"So Sexy\"\nby R.Kelly feat. R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"So Sexy\"\nby R.Kelly feat. R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"So Sexy\"\nby R.Kelly feat. R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"So Sexy\"\nby R.Kelly feat. R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"So Sexy\"\nby R.Kelly feat. R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
     },
     "music_HipHop_JazzePha_Materialistic": {
         "Language 00": { "text": "\"Materialistic\"\nby Jazze Pha", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
