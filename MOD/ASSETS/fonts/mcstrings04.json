@@ -7006,27 +7006,27 @@
         },
         "music_Techno_DarkEnergy_Sunshine": {
             "Language 00": {
-                "text": "\"Sunshine\"\nby Dark Energy",
+                "text": "\"Midnight Sunshine\"\nby Dark Energy",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 01": {
-                "text": "\"Sunshine\"\nde Dark Energy",
+                "text": "\"Midnight Sunshine\"\nde Dark Energy",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 02": {
-                "text": "\"Sunshine\"\npar Dark Energy",
+                "text": "\"Midnight Sunshine\"\npar Dark Energy",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 03": {
-                "text": "\"Sunshine\"\nvon Dark Energy",
+                "text": "\"Midnight Sunshine\"\nvon Dark Energy",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 04": {
-                "text": "\"Sunshine\"\ndi Dark Energy",
+                "text": "\"Midnight Sunshine\"\ndi Dark Energy",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 05": {
-                "text": "\"Sunshine\"\nby Dark Energy",
+                "text": "\"Midnight Sunshine\"\nby Dark Energy",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -7058,27 +7058,27 @@
         },
         "music_Techno_Fix_BiteBeforeYouBark": {
             "Language 00": {
-                "text": "\"Bite Before You Bark\"\nby Fix",
+                "text": "\"Bite Before You Bark\"\nby Orlando Voorn",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 01": {
-                "text": "\"Bite Before You Bark\"\nde Fix",
+                "text": "\"Bite Before You Bark\"\nde Orlando Voorn",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 02": {
-                "text": "\"Bite Before You Bark\"\npar Fix",
+                "text": "\"Bite Before You Bark\"\npar Orlando Voorn",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 03": {
-                "text": "\"Bite Before You Bark\"\nvon Fix",
+                "text": "\"Bite Before You Bark\"\nvon Orlando Voorn",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 04": {
-                "text": "\"Bite Before You Bark\"\ndi Fix",
+                "text": "\"Bite Before You Bark\"\ndi Orlando Voorn",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             },
             "Language 05": {
-                "text": "\"Bite Before You Bark\"\nby Fix",
+                "text": "\"Bite Before You Bark\"\nby Orlando Voorn",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
