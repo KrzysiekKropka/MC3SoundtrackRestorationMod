@@ -1,1 +1,1 @@
-python strtbl.py enc mcstrings02.json
+for f in *.json; do python strtbl.py enc "$f"; done

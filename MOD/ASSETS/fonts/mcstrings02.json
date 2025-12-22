@@ -27828,6 +27828,32 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_Dancehall_BeenieMan_WineYuhWaist": {
+            "Language 00": {
+                "text": "\"Wine Yuh Waist\"\nby Beenie Man",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Wine Yuh Waist'\"\nde Beenie Man",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Wine Yuh Waist\"\npar Beenie Man",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Wine Yuh Waist\"\nvon Beenie Man",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Wine Yuh Waist\"\ndi Beenie Man",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Wine Yuh Waist\"\nby Beenie Man",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_Dancehall_BeenieMan_YaggaYo": {
             "Language 00": {
                 "text": "\"Yagga Yo\"\nby Beenie Man feat. So Solid Crew",
@@ -28166,6 +28192,32 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_Dancehall_Shaggy_ReadyFiDiRide": {
+            "Language 00": {
+                "text": "\"Ready Fi Di Ride\"\nby Shaggy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Ready Fi Di Ride\"\nde Shaggy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Ready Fi Di Ride\"\npar Shaggy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Ready Fi Di Ride\"\nvon Shaggy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Ready Fi Di Ride\"\ndi Shaggy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Ready Fi Di Ride\"\nby Shaggy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_Dancehall_SmithMightyBLineFiBlow": {
             "Language 00": {
                 "text": "\"B Line Fi Blow\"\nby Smith & Mighty",
@@ -28241,58 +28293,6 @@
             },
             "Language 05": {
                 "text": "\"This Anuh Rampin'\"\nby Two Culture Clash feat. Ward 21",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            }
-        },
-        "music_Dancehall_Shaggy_ReadyFiDiRide": {
-            "Language 00": {
-                "text": "\"Ready Fi Di Ride\"\nby Shaggy",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 01": {
-                "text": "\"Ready Fi Di Ride\"\nde Shaggy",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 02": {
-                "text": "\"Ready Fi Di Ride\"\npar Shaggy",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 03": {
-                "text": "\"Ready Fi Di Ride\"\nvon Shaggy",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 04": {
-                "text": "\"Ready Fi Di Ride\"\ndi Shaggy",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 05": {
-                "text": "\"Ready Fi Di Ride\"\nby Shaggy",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            }
-        },
-         "music_Dancehall_BeenieMan_WineYuhWaist": {
-            "Language 00": {
-                "text": "\"Wine Yuh Waist\"\nby Beenie Man",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 01": {
-                "text": "\"Wine Yuh Waist'\"\nde Beenie Man",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 02": {
-                "text": "\"Wine Yuh Waist\"\npar Beenie Man",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 03": {
-                "text": "\"Wine Yuh Waist\"\nvon Beenie Man",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 04": {
-                "text": "\"Wine Yuh Waist\"\ndi Beenie Man",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 05": {
-                "text": "\"Wine Yuh Waist\"\nby Beenie Man",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -29232,6 +29232,32 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_2ndIINone_UpNDaClub": {
+            "Language 00": {
+                "text": "\"Up 'N Da Club\"\nby 2nd II None feat. AMG & DJ Quik",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Up 'N Da Club\"\nde 2nd II None feat. AMG & DJ Quik",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Up 'N Da Club\"\npar 2nd II None feat. AMG & DJ Quik",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Up 'N Da Club\"\nvon 2nd II None feat. AMG & DJ Quik",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Up 'N Da Club\"\ndi 2nd II None feat. AMG & DJ Quik",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Up 'N Da Club\"\nby 2nd II None feat. AMG & DJ Quik",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_50Cent_HowWeDo": {
             "Language 00": {
                 "text": "\"How We Do\"\nby The Game feat. 50 Cent",
@@ -29258,6 +29284,84 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_50Cent_InDaClub": {
+            "Language 00": {
+                "text": "\"In Da Club\"\nby 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"In Da Club\"\nde 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"In Da Club\"\npar 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"In Da Club\"\nvon 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"In Da Club\"\ndi 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"In Da Club\"\nby 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_50Cent_PIMP": {
+            "Language 00": {
+                "text": "\"P.I.M.P\"\nby 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"P.I.M.P\"\nde 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"P.I.M.P\"\npar 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"P.I.M.P\"\nvon 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"P.I.M.P\"\ndi 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"P.I.M.P\"\nby 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_50Cent_WindowShopper": {
+            "Language 00": {
+                "text": "\"Window Shopper\"\nby 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Window Shopper\"\nde 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Window Shopper\"\npar 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Window Shopper\"\nvon 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Window Shopper\"\ndi 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Window Shopper\"\nby 50 Cent",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_7L_ft_Estoric_MurderDeathKill": {
             "Language 00": {
                 "text": "\"Murder Death Kill\"\nby 7L & Esoteric feat. Celph Titled",
@@ -29281,6 +29385,32 @@
             },
             "Language 05": {
                 "text": "\"Murder Death Kill\"\nby 7L & Esoteric feat. Celph Titled",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Amerie_1Thing": {
+            "Language 00": {
+                "text": "\"1 Thing\"\nby Amerie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"1 Thing\"\nde Amerie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"1 Thing\"\npar Amerie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"1 Thing\"\nvon Amerie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"1 Thing\"\ndi Amerie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"1 Thing\"\nby Amerie",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -29388,6 +29518,32 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_BigTymers_StillFly": {
+            "Language 00": {
+                "text": "\"Still Fly\"\nby Big Tymers",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Still Fly\"\nde Big Tymers",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Still Fly\"\npar Big Tymers",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Still Fly\"\nvon Big Tymers",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Still Fly\"\ndi Big Tymers",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Still Fly\"\nby Big Tymers",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_BigTymers_Up": {
             "Language 00": {
                 "text": "\"Put That Shit Up\"\nby Big Tymers feat. Lac, Stone and Mikkey",
@@ -29411,6 +29567,58 @@
             },
             "Language 05": {
                 "text": "\"Put That Shit Up\"\nby Big Tymers feat. Lac, Stone and Mikkey",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_BlackMobGroup_AllDay": {
+            "Language 00": {
+                "text": "\"All Day\"\nby Black Mob Group",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"All Day\"\nde Black Mob Group",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"All Day\"\npar Black Mob Group",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"All Day\"\nvon Black Mob Group",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"All Day\"\ndi Black Mob Group",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"All Day\"\nby Black Mob Group",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_BowWow_LikeYou": {
+            "Language 00": {
+                "text": "\"Like You\"\nby Bow Wow feat. Ciara",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Like You\"\nde Bow Wow feat. Ciara",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Like You\"\npar Bow Wow feat. Ciara",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Like You\"\nvon Bow Wow feat. Ciara",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Like You\"\ndi Bow Wow feat. Ciara",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Like You\"\nby Bow Wow feat. Ciara",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -29492,6 +29700,136 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_Cassie_MeU": {
+            "Language 00": {
+                "text": "\"Me & U\"\nby Cassie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Me & U\"\nde Cassie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Me & U\"\npar Cassie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Me & U\"\nvon Cassie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Me & U\"\ndi Cassie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Me & U\"\nby Cassie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Chingy_RightThurr": {
+            "Language 00": {
+                "text": "\"Right Thurr\"\nby Chingy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Right Thurr\"\nde Chingy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Right Thurr\"\npar Chingy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Right Thurr\"\nvon Chingy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Right Thurr\"\ndi Chingy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Right Thurr\"\nby Chingy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_ChrisBrown_GimmeThatRemix": {
+            "Language 00": {
+                "text": "\"Gimme That Remix\"\nby Chris Brown feat. Lil' Wayne",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Gimme That Remix\"\nde Chris Brown feat. Lil' Wayne",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Gimme That Remix\"\npar Chris Brown feat. Lil' Wayne",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Gimme That Remix\"\nvon Chris Brown feat. Lil' Wayne",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Gimme That Remix\"\ndi Chris Brown feat. Lil' Wayne",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Gimme That Remix\"\nby Chris Brown feat. Lil' Wayne",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Ciara_12StepMain": {
+            "Language 00": {
+                "text": "\"1, 2 Step  (Main)\"\nby Ciara feat. Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"1, 2 Step  (Main)\"\nde Ciara feat. Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"1, 2 Step  (Main)\"\npar Ciara feat. Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"1, 2 Step  (Main)\"\nvon Ciara feat. Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"1, 2 Step  (Main)\"\ndi Ciara feat. Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"1, 2 Step  (Main)\"\nby Ciara feat. Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Ciara_Goodies": {
+            "Language 00": {
+                "text": "\"Goodies\"\nby Ciara feat. Petey Pablo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Goodies\"\nde Ciara feat. Petey Pablo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Goodies\"\npar Ciara feat. Petey Pablo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Goodies\"\nvon Ciara feat. Petey Pablo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Goodies\"\ndi Ciara feat. Petey Pablo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Goodies\"\nby Ciara feat. Petey Pablo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_Crisis_YouLikeMyStyle": {
             "Language 00": {
                 "text": "\"You Like My Style\"\nby Crisis",
@@ -29515,6 +29853,110 @@
             },
             "Language 05": {
                 "text": "",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_DianaKing_WineYuWaist": {
+            "Language 00": {
+                "text": "\"Wine Yu Waist\"\nby Diana King",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Wine Yu Waist\"\nde Diana King",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Wine Yu Waist\"\npar Diana King",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Wine Yu Waist\"\nvon Diana King",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Wine Yu Waist\"\ndi Diana King",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Wine Yu Waist\"\nby Diana King",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_E40_UandDat": {
+            "Language 00": {
+                "text": "\"U and Dat\"\nby E-40 feat. T. Pain & Kandi Girl",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"U and Dat\"\nde E-40 feat. T. Pain & Kandi Girl",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"U and Dat\"\npar E-40 feat. T. Pain & Kandi Girl",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"U and Dat\"\nvon E-40 feat. T. Pain & Kandi Girl",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"U and Dat\"\ndi E-40 feat. T. Pain & Kandi Girl",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"U and Dat\"\nby E-40 feat. T. Pain & Kandi Girl",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Eve_GangstaLovin": {
+            "Language 00": {
+                "text": "\"Gangsta Lovin'\"\nby Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Gangsta Lovin'\"\nde Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Gangsta Lovin'\"\npar Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Gangsta Lovin'\"\nvon Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Gangsta Lovin'\"\ndi Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Gangsta Lovin'\"\nby Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Eve_WhosThatGirl": {
+            "Language 00": {
+                "text": "\"Who's That Girl?\"\nby Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Who's That Girl?\"\nde Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Who's That Girl?\"\npar Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Who's That Girl?\"\nvon Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Who's That Girl?\"\ndi Eve",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Who's That Girl?\"\nby Eve",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -29778,6 +30220,84 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_FatJoe_WhatsLuv": {
+            "Language 00": {
+                "text": "\"What's Luv?\"\nby Fat Joe feat. Ja-Rule & Ashanti",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"What's Luv?\"\nde Fat Joe feat. Ja-Rule & Ashanti",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"What's Luv?\"\npar Fat Joe feat. Ja-Rule & Ashanti",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"What's Luv?\"\nvon Fat Joe feat. Ja-Rule & Ashanti",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"What's Luv?\"\ndi Fat Joe feat. Ja-Rule & Ashanti",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"What's Luv?\"\nby Fat Joe feat. Ja-Rule & Ashanti",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Fergie_Glamorous": {
+            "Language 00": {
+                "text": "\"Glamorous\"\nby Fergie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Glamorous\"\nde Fergie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Glamorous\"\npar Fergie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Glamorous\"\nvon Fergie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Glamorous\"\ndi Fergie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Glamorous\"\nby Fergie",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_GangstaBoo_WhereDemDollasAt": {
+            "Language 00": {
+                "text": "\"Where Dem Dollas At\"\nby Gangsta Boo feat. DJ Paul & Juicy J",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Where Dem Dollas At\"\nde Gangsta Boo feat. DJ Paul & Juicy J",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Where Dem Dollas At\"\npar Gangsta Boo feat. DJ Paul & Juicy J",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Where Dem Dollas At\"\nvon Gangsta Boo feat. DJ Paul & Juicy J",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Where Dem Dollas At\"\ndi Gangsta Boo feat. DJ Paul & Juicy J",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Where Dem Dollas At\"\nby Gangsta Boo feat. DJ Paul & Juicy J",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_JaeMillz_Who": {
             "Language 00": {
                 "text": "\"Who\"\nby Jae Millz",
@@ -29801,6 +30321,32 @@
             },
             "Language 05": {
                 "text": "",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_JaRule_LivinItUp": {
+            "Language 00": {
+                "text": "\"Livin' It Up\"\nby Ja Rule",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Livin' It Up\"\nde Ja Rule",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Livin' It Up\"\npar Ja Rule",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Livin' It Up\"\nvon Ja Rule",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Livin' It Up\"\ndi Ja Rule",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Livin' It Up\"\nby Ja Rule",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -29934,6 +30480,266 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_JKwon_TipsyClubMix": {
+            "Language 00": {
+                "text": "\"Tipsy (Club Mix)\"\nby J-Kwon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Tipsy (Club Mix)\"\nde J-Kwon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Tipsy (Club Mix)\"\npar J-Kwon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Tipsy (Club Mix)\"\nvon J-Kwon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Tipsy (Club Mix)\"\ndi J-Kwon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Tipsy (Club Mix)\"\nby J-Kwon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_JoeBudden_PumpItUp": {
+            "Language 00": {
+                "text": "\"Pump It Up\"\nby Joe Budden",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Pump It Up\"\nde Joe Budden",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Pump It Up\"\npar Joe Budden",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Pump It Up\"\nvon Joe Budden",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Pump It Up\"\ndi Joe Budden",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Pump It Up\"\nby Joe Budden",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Juvenile_BackThatAzzUp": {
+            "Language 00": {
+                "text": "\"Back That Azz Up\"\nby Juvenile",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Back That Azz Up\"\nde Juvenile",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Back That Azz Up\"\npar Juvenile",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Back That Azz Up\"\nvon Juvenile",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Back That Azz Up\"\ndi Juvenile",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Back That Azz Up\"\nby Juvenile",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_KanyeWest_Celebration": {
+            "Language 00": {
+                "text": "\"Celebration\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Celebration\"\nde Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Celebration\"\npar Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Celebration\"\nvon Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Celebration\"\ndi Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Celebration\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_KanyeWest_HeardEmSay": {
+            "Language 00": {
+                "text": "\"Heard 'Em Say\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Heard 'Em Say\"\nde Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Heard 'Em Say\"\npar Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Heard 'Em Say\"\nvon Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Heard 'Em Say\"\ndi Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Heard 'Em Say\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_KanyeWest_ThroughTheWire": {
+            "Language 00": {
+                "text": "\"Through The Wire\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Through The Wire\"\nde Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Through The Wire\"\npar Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Through The Wire\"\nvon Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Through The Wire\"\ndi Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Through The Wire\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_KanyeWest_TouchTheSky": {
+            "Language 00": {
+                "text": "\"Touch The Sky\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Touch The Sky\"\nde Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Touch The Sky\"\npar Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Touch The Sky\"\nvon Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Touch The Sky\"\ndi Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Touch The Sky\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_KanyeWest_TwoWords": {
+            "Language 00": {
+                "text": "\"Two Words\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Two Words\"\nde Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Two Words\"\npar Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Two Words\"\nvon Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Two Words\"\ndi Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Two Words\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_KanyeWest_WeMajor": {
+            "Language 00": {
+                "text": "\"We Major\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"We Major\"\nde Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"We Major\"\npar Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"We Major\"\nvon Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"We Major\"\ndi Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"We Major\"\nby Kanye West",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Kelis_TrickMe": {
+            "Language 00": {
+                "text": "\"Trick Me\"\nby Kelis",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Trick Me\"\nde Kelis",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Trick Me\"\npar Kelis",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Trick Me\"\nvon Kelis",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Trick Me\"\ndi Kelis",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Trick Me\"\nby Kelis",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_L_Wayne_Clean": {
             "Language 00": {
                 "text": "\"Go D.J.\"\nby Lil' Wayne feat. Mannie Fresh",
@@ -29957,6 +30763,32 @@
             },
             "Language 05": {
                 "text": "\"Go D.J.\"\nby Lil' Wayne feat. Mannie Fresh",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_LilJon_SnapYoFingers": {
+            "Language 00": {
+                "text": "\"Snap Yo Fingers\"\nby Lil Jon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Snap Yo Fingers\"\nde Lil Jon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Snap Yo Fingers\"\npar Lil Jon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Snap Yo Fingers\"\nvon Lil Jon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Snap Yo Fingers\"\ndi Lil Jon",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Snap Yo Fingers\"\nby Lil Jon",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -29986,6 +30818,58 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_LloydBanks_HandsUpAlbumVersionExplicit": {
+            "Language 00": {
+                "text": "\"Hands Up (Album Version Explicit)\"\nby Lloyd Banks",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Hands Up (Album Version Explicit)\"\nde Lloyd Banks",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Hands Up (Album Version Explicit)\"\npar Lloyd Banks",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Hands Up (Album Version Explicit)\"\nvon Lloyd Banks",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Hands Up (Album Version Explicit)\"\ndi Lloyd Banks",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Hands Up (Album Version Explicit)\"\nby Lloyd Banks",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Ludacris_ActAFool": {
+            "Language 00": {
+                "text": "\"Act A Fool\"\nby Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Act A Fool\"\nde Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Act A Fool\"\npar Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Act A Fool\"\nvon Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Act A Fool\"\ndi Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Act A Fool\"\nby Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_LupeFiasco_Tilted": {
             "Language 00": {
                 "text": "\"Tilted\"\nby Lupe Fiasco",
@@ -30009,6 +30893,32 @@
             },
             "Language 05": {
                 "text": "\"Tilted\"\nby Lupe Fiasco",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_MaryJBlige_FamilyAffair": {
+            "Language 00": {
+                "text": "\"Family Affair\"\nby Mary J. Blige",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Family Affair\"\nde Mary J. Blige",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Family Affair\"\npar Mary J. Blige",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Family Affair\"\nvon Mary J. Blige",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Family Affair\"\ndi Mary J. Blige",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Family Affair\"\nby Mary J. Blige",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -30038,6 +30948,58 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_MissyElliott_GetUrFreakOn": {
+            "Language 00": {
+                "text": "\"Get Ur Freak On\"\nby Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Get Ur Freak On\"\nde Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Get Ur Freak On\"\npar Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Get Ur Freak On\"\nvon Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Get Ur Freak On\"\ndi Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Get Ur Freak On\"\nby Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_MissyElliott_WorkIt": {
+            "Language 00": {
+                "text": "\"Work It\"\nby Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Work It\"\nde Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Work It\"\npar Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Work It\"\nvon Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Work It\"\ndi Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Work It\"\nby Missy Elliott",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_NappyRoots_Hustla": {
             "Language 00": {
                 "text": "\"Hustla\"\nby Nappy Roots",
@@ -30061,6 +31023,110 @@
             },
             "Language 05": {
                 "text": "\"Hustla\"\nby Nappy Roots",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Nelly_Dilemma": {
+            "Language 00": {
+                "text": "\"Dilemma\"\nby Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Dilemma\"\nde Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Dilemma\"\npar Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Dilemma\"\nvon Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Dilemma\"\ndi Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Dilemma\"\nby Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Nelly_HotInHere": {
+            "Language 00": {
+                "text": "\"Hot In Here\"\nby Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Hot In Here\"\nde Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Hot In Here\"\npar Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Hot In Here\"\nvon Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Hot In Here\"\ndi Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Hot In Here\"\nby Nelly",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_NellyFurtado_Promiscuous": {
+            "Language 00": {
+                "text": "\"Promiscuous\"\nby Nelly Furtado",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Promiscuous\"\nde Nelly Furtado",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Promiscuous\"\npar Nelly Furtado",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Promiscuous\"\nvon Nelly Furtado",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Promiscuous\"\ndi Nelly Furtado",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Promiscuous\"\nby Nelly Furtado",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_NeYo_SoSick": {
+            "Language 00": {
+                "text": "\"So Sick\"\nby Ne-Yo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"So Sick\"\nde Ne-Yo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"So Sick\"\npar Ne-Yo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"So Sick\"\nvon Ne-Yo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"So Sick\"\ndi Ne-Yo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"So Sick\"\nby Ne-Yo",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -30139,6 +31205,32 @@
             },
             "Language 05": {
                 "text": "\"Dammit Man\"\nby Pitbull feat. Piccallo",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_RickRoss_Magnificent": {
+            "Language 00": {
+                "text": "\"Magnificent\"\nby Rick Ross",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Magnificent\"\nde Rick Ross",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Magnificent\"\npar Rick Ross",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Magnificent\"\nvon Rick Ross",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Magnificent\"\ndi Rick Ross",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Magnificent\"\nby Rick Ross",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -30272,6 +31364,58 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_TerrorSquad_LeanBack": {
+            "Language 00": {
+                "text": "\"Lean Back\"\nby Terror Squad",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Lean Back\"\nde Terror Squad",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Lean Back\"\npar Terror Squad",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Lean Back\"\nvon Terror Squad",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Lean Back\"\ndi Terror Squad",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Lean Back\"\nby Terror Squad",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_TheGame_HateItOrLoveIt": {
+            "Language 00": {
+                "text": "\"Hate It Or Love It\"\nby The Game",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Hate It Or Love It\"\nde The Game",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Hate It Or Love It\"\npar The Game",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Hate It Or Love It\"\nvon The Game",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Hate It Or Love It\"\ndi The Game",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Hate It Or Love It\"\nby The Game",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_TheGame_Higher": {
             "Language 00": {
                 "text": "\"Higher\"\nby The Game",
@@ -30295,6 +31439,32 @@
             },
             "Language 05": {
                 "text": "",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_Three6Mafia_StayFly": {
+            "Language 00": {
+                "text": "\"Stay Fly\"\nby Three 6 Mafia",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Stay Fly\"\nde Three 6 Mafia",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Stay Fly\"\npar Three 6 Mafia",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Stay Fly\"\nvon Three 6 Mafia",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Stay Fly\"\ndi Three 6 Mafia",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Stay Fly\"\nby Three 6 Mafia",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -30636,6 +31806,32 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
+        "music_HipHop_USHER_Yeah": {
+            "Language 00": {
+                "text": "\"Yeah!\"\nby USHER feat. Lil Jon & Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Yeah!\"\nde USHER feat. Lil Jon & Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Yeah!\"\npar USHER feat. Lil Jon & Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Yeah!\"\nvon USHER feat. Lil Jon & Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Yeah!\"\ndi USHER feat. Lil Jon & Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Yeah!\"\nby USHER feat. Lil Jon & Ludacris",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
         "music_HipHop_YingYangTwins_Hanh": {
             "Language 00": {
                 "text": "\"Hanh!\"\nby Ying Yang Twins",
@@ -30659,6 +31855,32 @@
             },
             "Language 05": {
                 "text": "\"Hanh!\"\nby Ying Yang Twins",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_HipHop_YoungJeezy_ILuvIt": {
+            "Language 00": {
+                "text": "\"I Luv It\"\nby Young Jeezy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"I Luv It\"\nde Young Jeezy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"I Luv It\"\npar Young Jeezy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"I Luv It\"\nvon Young Jeezy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"I Luv It\"\ndi Young Jeezy",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"I Luv It\"\nby Young Jeezy",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -31026,32 +32248,6 @@
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
-        "music_Rock_AuthorityZero_Revolution": {
-            "Language 00": {
-                "text": "\"Revolution\"\nby Authority Zero",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 01": {
-                "text": "\"Revolution\"\nde Authority Zero",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 02": {
-                "text": "\"Revolution\"\npar Authority Zero",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 03": {
-                "text": "\"Revolution\"\nvon Authority Zero",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 04": {
-                "text": "\"Revolution\"\ndi Authority Zero",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            },
-            "Language 05": {
-                "text": "\"Revolution\"\nby Authority Zero",
-                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
-            }
-        },
         "music_Rock_AuthorityZero_PaintedWindows": {
             "Language 00": {
                 "text": "\"Painted Windows\"\nby Authority Zero",
@@ -31075,6 +32271,32 @@
             },
             "Language 05": {
                 "text": "\"Painted Windows\"\nby Authority Zero",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            }
+        },
+        "music_Rock_AuthorityZero_Revolution": {
+            "Language 00": {
+                "text": "\"Revolution\"\nby Authority Zero",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 01": {
+                "text": "\"Revolution\"\nde Authority Zero",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 02": {
+                "text": "\"Revolution\"\npar Authority Zero",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 03": {
+                "text": "\"Revolution\"\nvon Authority Zero",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 04": {
+                "text": "\"Revolution\"\ndi Authority Zero",
+                "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
+            },
+            "Language 05": {
+                "text": "\"Revolution\"\nby Authority Zero",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15}
             }
         },
@@ -60327,6 +61549,510 @@
                 "text": "負けた・・・",
                 "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 2}
             }
-        }
+        },
+    "music_HipHop_NappyRoots_Hustla": {
+        "Language 00": { "text": "\"Hustla\"\nby Nappy Roots", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Hustla\"\nby Nappy Roots", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Hustla\"\nby Nappy Roots", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Hustla\"\nby Nappy Roots", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Hustla\"\nby Nappy Roots", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Hustla\"\nby Nappy Roots", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_TrickDaddy_Gangsta": {
+        "Language 00": { "text": "\"Gangsta\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Gangsta\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Gangsta\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Gangsta\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Gangsta\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Gangsta\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_FatJoe_OppositesAttract": {
+        "Language 00": { "text": "\"Opposites Attract\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Opposites Attract\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Opposites Attract\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Opposites Attract\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Opposites Attract\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Opposites Attract\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_TrickDaddy_LetsGo": {
+        "Language 00": { "text": "\"Let's Go\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Let's Go\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Let's Go\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Let's Go\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Let's Go\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Let's Go\"\nby Trick Daddy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_LilScrappy_HeadBussa": {
+        "Language 00": { "text": "\"Head Bussa\"\nby Lil Scrappy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Head Bussa\"\nby Lil Scrappy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Head Bussa\"\nby Lil Scrappy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Head Bussa\"\nby Lil Scrappy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Head Bussa\"\nby Lil Scrappy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Head Bussa\"\nby Lil Scrappy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_FatJoe_MyLifestyle": {
+        "Language 00": { "text": "\"My Lifestyle\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"My Lifestyle\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"My Lifestyle\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"My Lifestyle\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"My Lifestyle\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"My Lifestyle\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_Twista_SoSexy": {
+        "Language 00": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"So Sexy\"\nby R.Kelly feat. Twista", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_JazzePha_Materialistic": {
+        "Language 00": { "text": "\"Materialistic\"\nby Jazze Pha", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Materialistic\"\nby Jazze Pha", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Materialistic\"\nby Jazze Pha", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Materialistic\"\nby Jazze Pha", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Materialistic\"\nby Jazze Pha", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Materialistic\"\nby Jazze Pha", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_FatJoe_FightClub": {
+        "Language 00": { "text": "\"Fight Club\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Fight Club\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Fight Club\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Fight Club\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Fight Club\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Fight Club\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_JaeMillz_Who": {
+        "Language 00": { "text": "\"Who\"\nby Jae Millz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Who\"\nby Jae Millz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Who\"\nby Jae Millz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Who\"\nby Jae Millz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Who\"\nby Jae Millz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Who\"\nby Jae Millz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_JeanGrae_YouDontWantIt": {
+        "Language 00": { "text": "\"You Don't Want It\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"You Don't Want It\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"You Don't Want It\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"You Don't Want It\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"You Don't Want It\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"You Don't Want It\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_JeanGrae_HatersAnthem": {
+        "Language 00": { "text": "\"Hater's Anthem\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Hater's Anthem\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Hater's Anthem  \"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Hater's Anthem  \"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Hater's Anthem  \"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Hater's Anthem  \"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_JediMindTricks_151": {
+        "Language 00": { "text": "\"151\"\nby Jedi Mind Tricks", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"151\"\nby Jedi Mind Tricks", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"151\"\nby Jedi Mind Tricks", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"151\"\nby Jedi Mind Tricks", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"151\"\nby Jedi Mind Tricks", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"151\"\nby Jedi Mind Tricks", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_7L_ft_Estoric_MurderDeathKill": {
+        "Language 00": { "text": "\"Murder Death Kill\"\nby 7L and Esoteric", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Murder Death Kill\"\nby 7L and Esoteric", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Murder Death Kill\"\nby 7L and Esoteric", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Murder Death Kill\"\nby 7L and Esoteric", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Murder Death Kill\"\nby 7L and Esoteric", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Murder Death Kill\"\nby 7L and Esoteric", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_BuddyKlein_LetsGo": {
+        "Language 00": { "text": "\"Let's Go\"\nby Buddy Klein", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Let's Go\"\nby Buddy Klein", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Let's Go\"\nby Buddy Klein", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Let's Go\"\nby Buddy Klein", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Let's Go\"\nby Buddy Klein", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Let's Go\"\nby Buddy Klein", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_SuperNatural_Victory": {
+        "Language 00": { "text": "\"Victory\"\nby Supernatural", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Victory\"\nby Supernatural", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Victory\"\nby Supernatural", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Victory\"\nby Supernatural", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Victory\"\nby Supernatural", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Victory\"\nby Supernatural", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_JeanGrae_GoingCrazy": {
+        "Language 00": { "text": "\"Going Crazy\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Going Crazy\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Going Crazy\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Going Crazy\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Going Crazy\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Going Crazy\"\nby Jean Grae", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_BumpJ_BumpJ": {
+        "Language 00": { "text": "\"Bump J\"\nby Bump J", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Bump J\"\nby Bump J", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Bump J\"\nby Bump J", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Bump J\"\nby Bump J", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Bump J\"\nby Bump J", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Bump J\"\nby Bump J", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_FatJoe_Victim": {
+        "Language 00": { "text": "\"Victim\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Victim\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Victim\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Victim\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Victim\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Victim\"\nby Fat Joe", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_TreySongz_YouCanGetIt": {
+        "Language 00": { "text": "\"You Get It By\"\nby Trey Songz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"You Get It By\"\nby Trey Songz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"You Get It By\"\nby Trey Songz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"You Get It By\"\nby Trey Songz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"You Get It By\"\nby Trey Songz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"You Get It By\"\nby Trey Songz", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_Fabolous_Tit4Tat": {
+        "Language 00": { "text": "\"Tit 4 Tat\"\nby Fabolous", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Tit 4 Tat\"\nby Fabolous", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Tit 4 Tat\"\nby Fabolous", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Tit 4 Tat\"\nby Fabolous", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Tit 4 Tat\"\nby Fabolous", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Tit 4 Tat\"\nby Fabolous", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_Trina_PutItOnTop": {
+        "Language 00": { "text": "\"Put It On Top\"\nby Trina feat. Pharrell", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Put It On Top\"\nby Trina feat. Pharrell", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Put It On Top\"\nby Trina feat. Pharrell", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Put It On Top\"\nby Trina feat. Pharrell", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Put It On Top\"\nby Trina feat. Pharrell", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Put It On Top\"\nby Trina feat. Pharrell", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_TrickDaddy_Sugar": {
+        "Language 00": { "text": "\"Sugar (Gimme Some)\"\nby Trick Daddy feat. Ludacris & CeeLo Green", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Sugar (Gimme Some)\"\nby Trick Daddy feat. Ludacris & CeeLo Green", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Sugar (Gimme Some)\"\nby Trick Daddy feat. Ludacris & CeeLo Green", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Sugar (Gimme Some)\"\nby Trick Daddy feat. Ludacris & CeeLo Green", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Sugar (Gimme Some)\"\nby Trick Daddy feat. Ludacris & CeeLo Green", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Sugar (Gimme Some)\"\nby Trick Daddy feat. Ludacris & CeeLo Green", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_Apathy_WassupBeatrice": {
+        "Language 00": { "text": "\"Wassup Beatrice\"\nby Apathy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Wassup Beatrice\"\nby Apathy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Wassup Beatrice\"\nby Apathy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Wassup Beatrice\"\nby Apathy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Wassup Beatrice\"\nby Apathy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Wassup Beatrice\"\nby Apathy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_LupeFiasco_Tilted": {
+        "Language 00": { "text": "\"Tilted\"\nby Lupe Fiasco", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Tilted\"\nby Lupe Fiasco", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Tilted\"\nby Lupe Fiasco", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Tilted\"\nby Lupe Fiasco", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Tilted\"\nby Lupe Fiasco", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Tilted\"\nby Lupe Fiasco", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_HipHop_Tweet_TurnDaLightsOff": {
+        "Language 00": { "text": "\"Turn Da Lights Off\"\nby Tweet feat. Missy Elliott", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Turn Da Lights Off\"\nby Tweet feat. Missy Elliott", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Turn Da Lights Off\"\nby Tweet feat. Missy Elliott", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Turn Da Lights Off\"\nby Tweet feat. Missy Elliott", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Turn Da Lights Off\"\nby Tweet feat. Missy Elliott", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Turn Da Lights Off\"\nby Tweet feat. Missy Elliott", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_TRaumschmiere_SickLikeMe": {
+        "Language 00": { "text": "\"Sick Like Me\"\nby T. Raumschmiere", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Sick Like Me\"\nby T. Raumschmiere", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Sick Like Me\"\nby T. Raumschmiere", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Sick Like Me\"\nby T. Raumschmiere", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Sick Like Me\"\nby T. Raumschmiere", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Sick Like Me\"\nby T. Raumschmiere", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_FuneralForAFriend_EscapeArtists": {
+        "Language 00": { "text": "\"Escape Artists Never Die\"\nby Funeral For A Friend", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Escape Artists Never Die\"\nby Funeral For A Friend", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Escape Artists Never Die\"\nby Funeral For A Friend", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Escape Artists Never Die\"\nby Funeral For A Friend", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Escape Artists Never Die\"\nby Funeral For A Friend", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Escape Artists Never Die\"\nby Funeral For A Friend", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_GrimSocial_UrbanPressure": {
+        "Language 00": { "text": "\"Urban Pressure\"\nby The Grim Northern Social", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Urban Pressure\"\nby The Grim Northern Social", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Urban Pressure\"\nby The Grim Northern Social", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Urban Pressure\"\nby The Grim Northern Social", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Urban Pressure\"\nby The Grim Northern Social", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Urban Pressure\"\nby The Grim Northern Social", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_DamagePlan_SaveMe": {
+        "Language 00": { "text": "\"Save Me\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Save Me\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Save Me\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Save Me\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Save Me\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Save Me\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_AuthorityZero_Revolution": {
+        "Language 00": { "text": "\"Revolution\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Revolution\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Revolution\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Revolution\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Revolution\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Revolution\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_SimplePlan_MeAgainstWorld": {
+        "Language 00": { "text": "\"Me Against the World\"\nby Simple Plan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Me Against the World\"\nby Simple Plan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Me Against the World\"\nby Simple Plan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Me Against the World\"\nby Simple Plan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Me Against the World\"\nby Simple Plan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Me Against the World\"\nby Simple Plan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_DamagePlan_Pride": {
+        "Language 00": { "text": "\"Pride\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Pride\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Pride\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Pride\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Pride\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Pride\"\nby Damageplan", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_BlocParty_ShesHearingVoices": {
+        "Language 00": { "text": "\"She’s Hearing Voices\"\nby Bloc Party", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"She’s Hearing Voices\"\nby Bloc Party", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"She’s Hearing Voices\"\nby Bloc Party", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"She’s Hearing Voices\"\nby Bloc Party", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"She’s Hearing Voices\"\nby Bloc Party", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"She’s Hearing Voices\"\nby Bloc Party", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_Gratitude_ThisIsThePart": {
+        "Language 00": { "text": "\"This is the Part\"\nby Gratitude", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"This is the Part\"\nby Gratitude", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"This is the Part\"\nby Gratitude", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"This is the Part\"\nby Gratitude", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"This is the Part\"\nby Gratitude", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"This is the Part\"\nby Gratitude", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_YoungHeartAttack_MistyRow": {
+        "Language 00": { "text": "\"Misty Rowe\"\nby Young Heart Attack", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Misty Rowe\"\nby Young Heart Attack", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Misty Rowe\"\nby Young Heart Attack", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Misty Rowe\"\nby Young Heart Attack", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Misty Rowe\"\nby Young Heart Attack", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Misty Rowe\"\nby Young Heart Attack", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_Marathon_PaintingByNumbers": {
+        "Language 00": { "text": "\"Painting By Numbers\"\nby Marathon", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Painting By Numbers\"\nby Marathon", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Painting By Numbers\"\nby Marathon", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Painting By Numbers\"\nby Marathon", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Painting By Numbers\"\nby Marathon", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Painting By Numbers\"\nby Marathon", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Rock_AuthorityZero_PaintedWindows": {
+        "Language 00": { "text": "\"Painted Windows\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Painted Windows\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Painted Windows\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Painted Windows\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Painted Windows\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Painted Windows\"\nby Authority Zero", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_HighContrast_LightsGoDown": {
+        "Language 00": { "text": "\"When the Lights Go Down\"\nby High Contrast", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"When the Lights Go Down\"\nby High Contrast", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"When the Lights Go Down\"\nby High Contrast", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"When the Lights Go Down\"\nby High Contrast", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"When the Lights Go Down\"\nby High Contrast", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"When the Lights Go Down\"\nby High Contrast", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_Jade_and_MattU_Salem": {
+        "Language 00": { "text": "\"Salem\"\nby Jade and Matt-U", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Salem\"\nby Jade and Matt-U", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Salem\"\nby Jade and Matt-U", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Salem\"\nby Jade and Matt-U", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Salem\"\nby Jade and Matt-U", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Salem\"\nby Jade and Matt-U", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_DomRoland_LateNight": {
+        "Language 00": { "text": "\"Late Night\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Late Night\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Late Night\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Late Night\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Late Night\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Late Night\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_ControlledSubstance_Dangerous": {
+        "Language 00": { "text": "\"Dangerous\"\nby Controlled Substance", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Dangerous\"\nby Controlled Substance", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Dangerous\"\nby Controlled Substance", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Dangerous\"\nby Controlled Substance", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Dangerous\"\nby Controlled Substance", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Dangerous\"\nby Controlled Substance", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_CorruptSouls_DropZone": {
+        "Language 00": { "text": "\"Drop Zone\"\nby Corrupt Souls", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Drop Zone\"\nby Corrupt Souls", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Drop Zone\"\nby Corrupt Souls", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Drop Zone\"\nby Corrupt Souls", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Drop Zone\"\nby Corrupt Souls", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Drop Zone\"\nby Corrupt Souls", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_DomRoland_CantPunishMe": {
+        "Language 00": { "text": "\"Can't Punish Me\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Can't Punish Me\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Can't Punish Me\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Can't Punish Me\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Can't Punish Me\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Can't Punish Me\"\nby Dom and Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Techno_LosHermanos_ReturnOfTheDragonsRemix": {
+        "Language 00": { "text": "\"Return of the Dragon (Los Hermanos Remix)\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Return of the Dragon (Los Hermanos Remix)\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Return of the Dragon (Los Hermanos Remix)\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Return of the Dragon (Los Hermanos Remix)\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Return of the Dragon (Los Hermanos Remix)\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Return of the Dragon (Los Hermanos Remix)\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Techno_Galaxy2Galaxy_Windchime": {
+        "Language 00": { "text": "\"Windchime\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Windchime\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Windchime\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Windchime\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Windchime\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Windchime\"\nby Galaxy 2 Galaxy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Techno_PlumpDJs_Pressure": {
+        "Language 00": { "text": "\"Pressure\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Pressure\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Pressure\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Pressure\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Pressure\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Pressure\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Techno_PlumpDJs_BulletTrain": {
+        "Language 00": { "text": "\"Bullet Train\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Bullet Train\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Bullet Train\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Bullet Train\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Bullet Train\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Bullet Train\"\nby Plump DJs", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Techno_TheInfiltrator_ImIn": {
+        "Language 00": { "text": "\"I'm In\"\nby The Infiltrator", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"I'm In\"\nby The Infiltrator", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"I'm In\"\nby The Infiltrator", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"I'm In\"\nby The Infiltrator", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"I'm In\"\nby The Infiltrator", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"I'm In\"\nby The Infiltrator", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Dancehall_Damian_MasterHasComeBack": {
+        "Language 00": { "text": "\"The Master Has Come Back\"\nby Damian Marley", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"The Master Has Come Back\"\nby Damian Marley", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"The Master Has Come Back\"\nby Damian Marley", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"The Master Has Come Back\"\nby Damian Marley", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"The Master Has Come Back\"\nby Damian Marley", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"The Master Has Come Back\"\nby Damian Marley", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Dancehall_SeanPaul_WeBeBurn": {
+        "Language 00": { "text": "\"We Be Burnin'\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"We Be Burnin'\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"We Be Burnin'\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"We Be Burnin'\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"We Be Burnin'\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"We Be Burnin'\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Dancehall_BeenieMan_WhoAmI": {
+        "Language 00": { "text": "\"Who Am I\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Who Am I\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Who Am I\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Who Am I\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Who Am I\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Who Am I\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Dancehall_SeanPaul_Infiltrate": {
+        "Language 00": { "text": "\"Infiltrate\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Infiltrate\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Infiltrate\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Infiltrate\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Infiltrate\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Infiltrate\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Dancehall_SeanPaul_EyeDehAMiKnee": {
+        "Language 00": { "text": "\"Eye Deh a Mi Knee\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Eye Deh a Mi Knee\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Eye Deh a Mi Knee\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Eye Deh a Mi Knee\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Eye Deh a Mi Knee\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Eye Deh a Mi Knee\"\nby Sean Paul", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Dancehall_Shaggy_ReadyFiDiRide": {
+        "Language 00": { "text": "\"Ready Fi Di Ride\"\nby Shaggy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Ready Fi Di Ride\"\nby Shaggy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Ready Fi Di Ride\"\nby Shaggy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Ready Fi Di Ride\"\nby Shaggy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Ready Fi Di Ride\"\nby Shaggy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Ready Fi Di Ride\"\nby Shaggy", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Dancehall_BeenieMan_WineYuhWaist": {
+        "Language 00": { "text": "\"Wine Yu Waist\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Wine Yu Waist\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Wine Yu Waist\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Wine Yu Waist\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Wine Yu Waist\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Wine Yu Waist\"\nby Beenie Man", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Instrumental_RHK_Epish": {
+        "Language 00": { "text": "\"Epish\"\nby The Ratt Pakk", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Epish\"\nby The Ratt Pakk", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Epish\"\nby The Ratt Pakk", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Epish\"\nby The Ratt Pakk", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Epish\"\nby The Ratt Pakk", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Epish\"\nby The Ratt Pakk", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Instrumental_DBlock_IDareYou": {
+        "Language 00": { "text": "\"I Dare You\"\nby D-Block", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"I Dare You\"\nby D-Block", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"I Dare You\"\nby D-Block", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"I Dare You\"\nby D-Block", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"I Dare You\"\nby D-Block", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"I Dare You\"\nby D-Block", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_Calyx_TheThingsYouMeanToMe": {
+        "Language 00": { "text": "\"The Things You Mean To Me\"\nby Calyx", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"The Things You Mean To Me\"\nby Calyx", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"The Things You Mean To Me\"\nby Calyx", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"The Things You Mean To Me\"\nby Calyx", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"The Things You Mean To Me\"\nby Calyx", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"The Things You Mean To Me\"\nby Calyx", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_DomRoland_Paradrenasite": {
+        "Language 00": { "text": "\"Paradrenasite\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Paradrenasite\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Paradrenasite\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Paradrenasite\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Paradrenasite\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Paradrenasite\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_DomRoland_DanceAllNight": {
+        "Language 00": { "text": "\"Dance All Night\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Dance All Night\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Dance All Night\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Dance All Night\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Dance All Night\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Dance All Night\"\nby Dom & Roland", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Drum_N_Bass_OmniTrio_RenegadeSnaresRemix": {
+        "Language 00": { "text": "\"Renegade Snares (Foul Play Remix)\"\nby Omni Trio", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Renegade Snares (Foul Play Remix)\"\nby Omni Trio", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Renegade Snares (Foul Play Remix)\"\nby Omni Trio", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Renegade Snares (Foul Play Remix)\"\nby Omni Trio", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Renegade Snares (Foul Play Remix)\"\nby Omni Trio", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Renegade Snares (Foul Play Remix)\"\nby Omni Trio", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    },
+    "music_Techno_Martian_TobaccoTies": {
+        "Language 00": { "text": "\"Tobacco Ties\"\nby The Martian", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 01": { "text": "\"Tobacco Ties\"\nby The Martian", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 02": { "text": "\"Tobacco Ties\"\nby The Martian", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 03": { "text": "\"Tobacco Ties\"\nby The Martian", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 04": { "text": "\"Tobacco Ties\"\nby The Martian", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} },
+        "Language 05": { "text": "\"Tobacco Ties\"\nby The Martian", "font": {"name": "smallspace", "scale32": [1.0, 1.0], "scale8": [0, 0], "size": 15} }
+    }
     }
 }
